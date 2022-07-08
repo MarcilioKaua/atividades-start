@@ -1,0 +1,102 @@
+body {
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 20pt;
+}
+
+nav {
+    height: 30pt;
+    display: flex;
+    align-items: center;
+    padding-left: 420pt;
+    border: solid black 2px;
+    border-radius: 3px;
+}
+
+#campos {
+    width: 80%;
+    height: 45pt;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#campos input {
+    font-size: 18pt;
+    text-align: center;
+    width: 25%;
+    height: 38pt;
+    border: solid black 2px;
+    border-radius: 3px;
+}
+
+#genero-tipo {
+    padding-left: 50pt;
+    line-height: 50px;
+    width: 480pt;
+    height: 150pt;
+    display: inline-block;
+}
+
+img {
+    padding-top: 40px;
+    padding-left: 25px;
+    width: 120pt;
+    height: 100pt;
+}
+
+#img-pessoa {
+    width: 160pt;
+    height: 160pt;
+    display: inline-block;
+    align-items: baseline;
+    border: solid black 2px;
+    border-radius: 100px;
+    justify-content: space-between;
+}
+
+#texto-pessoa p {
+    padding-left: 10px;
+}
+
+#texto-pessoa {
+    width: 210pt;
+    height: 100pt;
+    display: inline-block;
+    border: solid black 2px;
+    border-radius: 10px;
+}
+
+#botoes button{
+    font-size: 16pt;
+    width: 170pt;
+    height: 45pt;
+    border: solid black 2px;
+    border-radius: 3px;
+}
+
+#botoes {
+    padding-left: 550pt;
+    width: 400pt;
+    height: 45pt;
+}
+
+footer {
+    height: 30pt;
+    display: flex;
+    align-items: center;
+    padding-left: 420pt;
+    border: solid black 2px;
+    border-radius: 3px;
+}
+
+#meio-tela {
+    width: 94%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
